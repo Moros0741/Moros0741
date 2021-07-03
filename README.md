@@ -1,4 +1,4 @@
-<div align='center'>
+<div align='left'>
 
 ## About
 Hi, I'm Nick. Most people know me as Moros or M. I'm an aspiring full stack developer at the beggining of my journey. Right now I mostly have developed discord bots. I am currently enrolled in Python mastery course hoping to get my certificate. 
