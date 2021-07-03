@@ -15,6 +15,4 @@ The languages I use most are Python (proficient), JavaScript (novice), and HTML 
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=Moros0741)](https://github.com/Moros0741/github-readme-stats)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Moros0741&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark)](https://github.com/Moros0741/github-readme-stats)
-
 </div>
