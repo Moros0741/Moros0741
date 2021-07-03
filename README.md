@@ -11,8 +11,6 @@ The languages I use most are Python (proficient), JavaScript (novice), and HTML 
 ## My Statistics
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Moros0741&theme=dark)](https://git.io/streak-stats)
-
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=Moros0741)](https://github.com/Moros0741/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Moros0741&theme=dark)](https://git.io/streak-stats) [![Github Stats](https://github-readme-stats.vercel.app/api?username=Moros0741)](https://github.com/Moros0741/github-readme-stats)
 
 </div>
