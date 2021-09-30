@@ -5,7 +5,7 @@ Hi, I'm Moros, most people just call me M. I'm an aspiring full stack developer 
 <br></br>
 
 ## Languages
-<a href="https://www.python.org"><img alt="Python" title="Python" src="https://user-images.githubusercontent.com/71281300/135534799-6acefce4-e967-4c6f-a233-34db3bb39183.png"/></a>
+<a href="https://www.python.org"><img alt="Python" title="Python" src="https://user-images.githubusercontent.com/71281300/135535071-dd8f7e8f-f754-455b-ab1c-0d251a38633a.png"/></a>
 
 <hr>
 <br>
