@@ -2,7 +2,11 @@
 
 ## About
 Hi, I'm Moros, most people just call me M. I'm an aspiring full stack developer at the beggining of my journey. Right now, I mainly have developed Discord bots. I am currently enrolled in Python mastery courses hoping to get my certificate. 
-<br><br>
+
+<hr>
+<br>
+<a href="https://heroku.com/"><img alt="Powered by Heroku" title="Powered by Heroku" src="https://img.shields.io/badge/-Powered%20by%20Heroku-6567a5?style=for-the-badge&logo=heroku&logoColor=white"/></a>
+## Languages
 The languages I use most are Python (proficient), JavaScript (novice), and HTML (novice) with interest in learning Go and CSS. 
 
 <hr>
