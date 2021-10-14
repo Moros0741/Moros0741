@@ -1,7 +1,7 @@
 <div align='center'>
 
 ## About
-![Discord](https://discord.c99.nl/widget/theme-2/700057705951395921.png)
+![Discord](https://discord.c99.nl/widget/theme-2/700057705951395921.png)</br>  
 Hi, I'm Moros, most people just call me M. I'm an aspiring full stack developer at the beginning of my journey. Right now, I mainly have developed Discord bots. I am currently enrolled in Python mastery courses hoping to get my certificate. Learning JavaScript with the hope of eventually learning Golang and RUST.
 <br></br>
 
