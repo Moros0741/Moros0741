@@ -17,8 +17,8 @@ Hi, I'm Moros, most people just call me M. I'm an aspiring full stack developer 
 ## My Statistics
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Moros0741&theme=dark)](https://git.io/streak-stats)  
-[![Moros' GitHub stats](https://github-readme-stats.vercel.app/api?username=Moros0741&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Moros0741&theme=dark)](https://git.io/streak-stats)  
+![Moros' GitHub stats](https://github-readme-stats.vercel.app/api?username=Moros0741&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moros0741&theme=tokyonight&langs_count=10&layout=compact)
 
 
