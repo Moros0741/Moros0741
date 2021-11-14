@@ -19,7 +19,9 @@ Hi, I'm Moros, most people just call me M. I'm an aspiring full stack developer 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Moros0741&theme=dark)](https://git.io/streak-stats)  
 ![Moros' GitHub stats](https://github-readme-stats.vercel.app/api?username=Moros0741&count_private=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moros0741&theme=tokyonight&langs_count=10&layout=compact)
-![Metrics](https://metrics.lecoq.io/Moros0741?template=classic&repositories.forks=true&base.metadata=0&languages=1&followup=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&config.timezone=America%2FColombia&config.padding=0%2C%2015%25)
+
+![Metrics](https://metrics.lecoq.io/Moros0741?template=classic&repositories.forks=true&base.metadata=0&languages=1&followup=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&config.timezone=America%2FBoston&config.padding=0%2C%2015%25)
 
 </div>
