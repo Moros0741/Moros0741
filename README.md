@@ -1,7 +1,7 @@
 <div align='center'>
 
 ![Discord](https://discord.c99.nl/widget/theme-2/700057705951395921.png)</br>  
-Hi, I'm Moros, most people just call me M. I'm a full stack developer, specializing in Discord Bots primarily, with an interest in cyber security and user protections. Owner of Spartan Development. Project Leader at Discord Guardian System.
+Hi, I'm Moros, most people just call me M. I'm a full stack developer, specializing in Discord Bots primarily, with an interest in cyber security and user protections. Owner of Spartan Development. Project Leader of Spartan Development's Guardian System.
 <br></br>
 
 ## Stats
