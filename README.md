@@ -1,7 +1,7 @@
 <div align='center'>
 
 ![Discord](https://discord.c99.nl/widget/theme-2/700057705951395921.png)</br>  
-Hi, I'm Moros, most people just call me M. I'm a full stack developer, specializing in Discord Bots primarily, with an interest in cyber security and user protections. 
+Hi, I'm Moros, most people just call me M. I'm a full stack developer, specializing in Discord Bots. My current focus is on building back-end applications using Node and Express, as well as front-end applications using NextJS with Tailwind CSS.
 <br></br>
 
 ## Stats
