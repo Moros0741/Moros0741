@@ -7,9 +7,9 @@
 <br></br>
 
 ### Contact Me
-<a href="https://discord.com/users/700057705951395921" alt="Moros's Discord Profile Link">➛ via Discord</a>
+<a href="https://discord.com/users/700057705951395921" alt="Moros's Discord Profile Link">➛ Reach out on Discord</a>
 
-<a href="mailto:moros.nick0741@gmail.com">➛ via E-mail</a>
+<a href="mailto:moros.nick0741@gmail.com">➛ Reach out via E-mail</a>
 
 <a href="https://moros.dev">➛ Visit My Site</a>
 
