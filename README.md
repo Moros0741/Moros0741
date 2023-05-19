@@ -9,6 +9,8 @@
 ## Stats
 ![stats](https://github-readme-stats.vercel.app/api?username=Moros0741&show_icons=true&theme=omni&count_private=true&hide_border=true&bg_color=0D1117&title_color=f72020&icon_color=f72020&include_all_commits=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moros0741&layout=compact&theme=omni&hide_border=true&bg_color=0D1117&title_color=f72020)
 
+<div align="center">
+
 ## Skills
 <img src="https://media.discordapp.net/attachments/1109196353780858991/1109196504788369478/css.png" width="50" height="50" />
 <img src="https://media.discordapp.net/attachments/1109196353780858991/1109196505455276082/html.png" width="50" height="50" />
