@@ -7,9 +7,9 @@
 <br></br>
 
 ### Contact Me
-<a href="https://discord.com/users/700057705951395921" alt="Moros's Discord Profile Link"><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6cc3c481a15a141738_icon_clyde_white_RGB.png" width="20" height="14"/> Contact Me on Discord</a>
+<a href="https://discord.com/users/700057705951395921" alt="Moros's Discord Profile Link">➛ Contact Me on Discord</a>
 
-<a href="mailto:moros.nick0741@gmail.com"><img src="https://logodix.com/logo/447066.png" height="25" width="25" /> Send Me an E-mail</a>
+<a href="mailto:moros.nick0741@gmail.com">➛ Send Me an E-mail</a>
 
 ## Stats
 ![stats](https://github-readme-stats.vercel.app/api?username=Moros0741&show_icons=true&theme=omni&count_private=true&hide_border=true&bg_color=0D1117&title_color=f72020&icon_color=f72020&include_all_commits=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moros0741&layout=compact&theme=omni&hide_border=true&bg_color=0D1117&title_color=f72020)
