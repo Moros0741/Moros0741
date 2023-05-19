@@ -7,9 +7,11 @@
 <br></br>
 
 ### Contact Me
-<a href="https://discord.com/users/700057705951395921" alt="Moros's Discord Profile Link">➛ Contact Me on Discord</a>
+<a href="https://discord.com/users/700057705951395921" alt="Moros's Discord Profile Link">➛ via Discord</a>
 
-<a href="mailto:moros.nick0741@gmail.com">➛ Send Me an E-mail</a>
+<a href="mailto:moros.nick0741@gmail.com">➛ via E-mail</a>
+
+<a href="https://moros.dev">➛ Visit My Site</a>
 
 ## Stats
 ![stats](https://github-readme-stats.vercel.app/api?username=Moros0741&show_icons=true&theme=omni&count_private=true&hide_border=true&bg_color=0D1117&title_color=f72020&icon_color=f72020&include_all_commits=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moros0741&layout=compact&theme=omni&hide_border=true&bg_color=0D1117&title_color=f72020)
