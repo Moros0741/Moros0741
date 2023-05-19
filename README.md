@@ -6,13 +6,6 @@
   Hi, I'm Moros, most people just call me M. I'm a full stack developer, specializing in Discord Bots. My current focus is on building back-end applications using Node and Express, as well as front-end applications using NextJS with Tailwind CSS.
 <br></br>
 
-### Contact Me
-<a href="https://discord.com/users/700057705951395921" alt="Moros's Discord Profile Link">➛ Reach out on Discord</a>
-
-<a href="mailto:moros.nick0741@gmail.com">➛ Reach out via E-mail</a>
-
-<a href="https://moros.dev">➛ Visit My Site</a>
-
 ## Stats
 ![stats](https://github-readme-stats.vercel.app/api?username=Moros0741&show_icons=true&theme=omni&count_private=true&hide_border=true&bg_color=0D1117&title_color=f72020&icon_color=f72020&include_all_commits=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moros0741&layout=compact&theme=omni&hide_border=true&bg_color=0D1117&title_color=f72020)
 
