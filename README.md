@@ -1,6 +1,6 @@
 <div align='center'>
 
-<h1 color="#5651e5">
+<h1 align="left" text="#5651e5">
   Nick | Moros
 </h1>
 Hi, I'm Moros, most people just call me M. I'm a full stack developer, specializing in Discord Bots. My current focus is on building back-end applications using Node and Express, as well as front-end applications using NextJS with Tailwind CSS.
