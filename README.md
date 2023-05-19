@@ -16,10 +16,10 @@
 ## Skills
 <img src="https://media.discordapp.net/attachments/1109196353780858991/1109196504788369478/css.png" width="50" height="50" />
 <img src="https://media.discordapp.net/attachments/1109196353780858991/1109196505455276082/html.png" width="50" height="50" />
+<img src="https://media.discordapp.net/attachments/1109196353780858991/1109196606131151018/typescript.png" width="50" height="50" />
+<img src="https://media.discordapp.net/attachments/1109196353780858991/1109196505799196682/javascript.png" width="50" height="50" />
 <img src="https://media.discordapp.net/attachments/1109196353780858991/1109196605837553664/tailwind.png" width="50" height="50" />
 <img src="https://media.discordapp.net/attachments/1109196353780858991/1109196605351010385/react.png" width="50" height="50" />
 <img src="https://media.discordapp.net/attachments/1109196353780858991/1109196506491269241/nextjs.png" width="50" height="50" />
-<img src="https://media.discordapp.net/attachments/1109196353780858991/1109196606131151018/typescript.png" width="50" height="50" />
-<img src="https://media.discordapp.net/attachments/1109196353780858991/1109196505799196682/javascript.png" width="50" height="50" />
 <img src="https://media.discordapp.net/attachments/1109196353780858991/1109196507233665085/python.png" width="50" height="50" />
 <img src="https://media.discordapp.net/attachments/1109196353780858991/1109196506919075910/node.png" width="50" height="50" />
