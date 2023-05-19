@@ -8,6 +8,7 @@
 
 ### Contact Me
 <a href="https://discord.com/users/700057705951395921" alt="Moros's Discord Profile Link"><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6cc3c481a15a141738_icon_clyde_white_RGB.png" width="20" height="14"/> Contact Me on Discord</a>
+
 <a href="mailto:moros.nick0741@gmail.com"><img src="https://logodix.com/logo/447066.png" height="25" width="25" /> Send Me an E-mail</a>
 
 ## Stats
