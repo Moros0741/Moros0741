@@ -7,7 +7,7 @@
 			Full Stack Developer
 		</p>
 	</div>
-	<div style="padding: 10px;">
+	<div align="left">
 		<p style="color: aliceblue;">
 			Hey! I'm Nick (aka Moros). I'm a full stack developer specializing in back-end applications using JavaScript and Node. I started learning 
 			to program through making discord bot and quickly fell in love with the process of creating something from nothing. I'm currently working 
