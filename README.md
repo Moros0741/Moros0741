@@ -1,4 +1,4 @@
-<div style=" background:darkgray; margin: auto; width: screen; height:screen">
+<div align="center">
 	<div style="align-items: center; justify-content: center; padding: 10px;">
 		<h1 style="color: #5651e5; padding-bottom: 0px">
 			Moros0741 | Nick
