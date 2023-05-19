@@ -8,7 +8,7 @@
 
 ### Contact Me
 <ul>
-  <li><img src="https://www.pngfind.com/pngs/m/28-283551_discord-discord-icon-transparent-white-hd-png-download.png" width="25" height="25"/><a href="https://discord.com/users/700057705951395921" alt="Moros's Discord Profile Link">Discord</a></li>
+  <li><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6cc3c481a15a141738_icon_clyde_white_RGB.png" width="25" height="25"/><a href="https://discord.com/users/700057705951395921" alt="Moros's Discord Profile Link">Discord</a></li>
 
 ## Stats
 ![stats](https://github-readme-stats.vercel.app/api?username=Moros0741&show_icons=true&theme=omni&count_private=true&hide_border=true&bg_color=0D1117&title_color=f72020&icon_color=f72020&include_all_commits=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moros0741&layout=compact&theme=omni&hide_border=true&bg_color=0D1117&title_color=f72020)
